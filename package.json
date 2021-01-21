@@ -1,5 +1,5 @@
 {
-  "name": "react-big-scheduler",
+  "name": "react-big-scheduler-tdt-v4",
   "version": "0.2.7",
   "description": "A scheduler and resource planning component built for React and made for modern browsers (IE10+)",
   "keywords": [
@@ -17,14 +17,14 @@
     "CHANGELOG.md"
   ],
   "main": "lib/index",
-  "homepage": "https://github.com/StephenChou1017/react-big-scheduler",
-  "author": "Stephen Chou <27788280@qq.com> (https://github.com/StephenChou1017)",
+  "homepage": "https://github.com/marcoss94/react-big-scheduler",
+  "author": "Marcos Alvarez (https://github.com/marcoss94)",
   "repository": {
     "type": "git",
-    "url": "git@github.com:StephenChou1017/react-big-scheduler.git"
+    "url": "git@github.com:marcoss94/react-big-scheduler.git"
   },
   "bugs": {
-    "url": "http://github.com/StephenChou1017/react-big-scheduler/issues"
+    "url": "http://github.com/marcoss94/react-big-scheduler/issues"
   },
   "license": "MIT",
   "config": {},
@@ -71,11 +71,11 @@
     "less-loader": "^5.0.0",
     "mocha": "^6.1.4",
     "mocha-babel": "3.0.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.14.1",
     "react-hot-loader": "^4.8.4",
     "react-redux": "^7.0.3",
-    "react-router": "^5.0.0",
-    "react-router-dom": "^5.0.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-router-redux": "^4.0.8",
     "sass-loader": "7.1.0",
     "style-loader": "0.23.1",
@@ -83,6 +83,6 @@
     "webpack": "^4.30.0",
     "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.3.1",
-    "webpack-dev-server": "^3.3.1"
+    "webpack-dev-server": "^3.11.2"
   }
 }
